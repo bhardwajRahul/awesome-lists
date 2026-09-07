@@ -23,6 +23,7 @@ Abhilash001
 Acronix-dev
 AdamFortune
 Aelionyxe
+AgendaLLC
 AgendaStudios
 AgentChatBus
 AhmedCrypto
@@ -234,6 +235,7 @@ JuanCrypto
 JuanFBlanco
 JuanFlanco
 JuanFrBlanco
+JuanFra
 JuanFranBlanco
 JuanFranBlancoExtensions
 JuanRiseETH
@@ -256,6 +258,7 @@ KronaSecurity
 KsWpsClaude
 Ktoon
 KuCai
+Kxnrl
 LBGroup
 LWilhelmer
 LaineHallot
@@ -316,6 +319,7 @@ Noe
 NolanWang
 NordicMidnight
 NotToTest
+NotePadExtra
 OIOXO
 OPENEDAI
 OfekBickel
@@ -355,8 +359,10 @@ RabobankAI
 RachelFront
 RachmatKaligis
 RahulSinha
+RamiAbughazaleh
 RandomityGuy
 RandomityMB
+RavidAmar
 RblxTasker
 RdbtCVS
 ReadMeAI
@@ -487,6 +493,7 @@ Zeron1337
 ZhangQuan
 Zlmiles
 Zoosewu
+a7bz
 aadarkcode
 ab-498
 abczyx2006
@@ -882,6 +889,7 @@ kokoma
 kolling88
 kongdetuo
 konyshevav
+kototok903
 kova-lang
 krabt
 krosarin
@@ -1031,6 +1039,7 @@ pandaexpress
 parmentelat
 pascal-lab
 pascalabcnet
+pathvela
 paul0dev
 peanutsplash
 pedrocmota
@@ -1133,6 +1142,7 @@ shinypy
 shiverov
 siehc
 siffat-ahmed
+silvercastledigital
 simplerjiang
 smartflow
 smarty1337
