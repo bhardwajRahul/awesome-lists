@@ -558,6 +558,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 266923,zh-CN,AS,亚洲,LB,黎巴嫩,JL,,,,,,Asia/Beirut,0
 268064,zh-CN,AS,亚洲,LB,黎巴嫩,JA,南部省,,,赛达,,Asia/Beirut,0
 272103,zh-CN,AS,亚洲,LB,黎巴嫩,,,,,,,Asia/Beirut,0
+272148,zh-CN,AS,亚洲,LB,黎巴嫩,BI,,,,,,Asia/Beirut,0
 272280,zh-CN,AS,亚洲,LB,黎巴嫩,BI,,,,,,Asia/Beirut,0
 273203,zh-CN,AS,亚洲,LB,黎巴嫩,JL,,,,,,Asia/Beirut,0
 273607,zh-CN,AS,亚洲,LB,黎巴嫩,JL,,,,,,Asia/Beirut,0
@@ -1085,6 +1086,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 314190,zh-CN,AS,亚洲,TR,土耳其,68,阿克萨赖省,,,,,Europe/Istanbul,0
 314450,zh-CN,AS,亚洲,TR,土耳其,63,尚勒乌尔法省,,,,,Europe/Istanbul,0
 314648,zh-CN,AS,亚洲,TR,土耳其,12,宾格尔省,,,,,Europe/Istanbul,0
+314812,zh-CN,AS,亚洲,TR,土耳其,07,安塔利亚省,,,,,Europe/Istanbul,0
 314822,zh-CN,AS,亚洲,TR,土耳其,01,阿达纳省,,,,,Europe/Istanbul,0
 314826,zh-CN,AS,亚洲,TR,土耳其,35,伊兹密尔省,,,,,Europe/Istanbul,0
 314829,zh-CN,AS,亚洲,TR,土耳其,27,加济安泰普省,,,,,Europe/Istanbul,0
@@ -5828,6 +5830,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1007308,zh-CN,AF,非洲,ZA,南非,KZN,,,,,,Africa/Johannesburg,0
 1007311,zh-CN,AF,非洲,ZA,南非,KZN,,,,德班,,Africa/Johannesburg,0
 1007375,zh-CN,AF,非洲,ZA,南非,GP,豪登省,,,,,Africa/Johannesburg,0
+1007400,zh-CN,AF,非洲,ZA,南非,KZN,,,,,,Africa/Johannesburg,0
 1007476,zh-CN,AF,非洲,ZA,南非,MP,姆普马兰加省,,,,,Africa/Johannesburg,0
 1008612,zh-CN,AF,非洲,ZA,南非,NC,,,,,,Africa/Johannesburg,0
 1009274,zh-CN,AF,非洲,ZA,南非,GP,豪登省,,,,,Africa/Johannesburg,0
@@ -7408,6 +7411,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1295395,zh-CN,AS,亚洲,MM,缅甸,06,仰光省,,,,,Asia/Yangon,0
 1298822,zh-CN,AS,亚洲,MM,缅甸,06,仰光省,,,,,Asia/Yangon,0
 1298824,zh-CN,AS,亚洲,MM,缅甸,06,仰光省,,,仰光,,Asia/Yangon,0
+1298852,zh-CN,AS,亚洲,MM,缅甸,16,,,,,,Asia/Yangon,0
 1300466,zh-CN,AS,亚洲,MM,缅甸,02,勃固省,,,勃固,,Asia/Yangon,0
 1307627,zh-CN,AS,亚洲,MM,缅甸,03,,,,,,Asia/Yangon,0
 1307741,zh-CN,AS,亚洲,MM,缅甸,11,克钦邦,,,密支那,,Asia/Yangon,0
@@ -9077,7 +9081,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1717911,zh-CN,AS,亚洲,PH,菲律宾,08,,WSA,,,,Asia/Manila,0
 1717926,zh-CN,AS,亚洲,PH,菲律宾,08,,NSA,,,,Asia/Manila,0
 1718306,zh-CN,AS,亚洲,PH,菲律宾,40,卡拉巴松,CAV,,,,Asia/Manila,0
-1718328,zh-CN,AS,亚洲,PH,菲律宾,07,中米沙鄢,CEB,,,,Asia/Manila,0
 1718337,zh-CN,AS,亚洲,PH,菲律宾,11,达沃区,DAV,,,,Asia/Manila,0
 1718426,zh-CN,AS,亚洲,PH,菲律宾,40,卡拉巴松,RIZ,,,,Asia/Manila,0
 1718436,zh-CN,AS,亚洲,PH,菲律宾,07,中米沙鄢,CEB,,,,Asia/Manila,0
@@ -9308,6 +9311,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1735572,zh-CN,AS,亚洲,MY,马来西亚,03,吉兰丹,,,,,Asia/Kuala_Lumpur,0
 1735605,zh-CN,AS,亚洲,MY,马来西亚,13,砂拉越,,,,,Asia/Kuching,0
 1735634,zh-CN,AS,亚洲,MY,马来西亚,13,砂拉越,,,,,Asia/Kuching,0
+1735837,zh-CN,AS,亚洲,MY,马来西亚,13,砂拉越,,,,,Asia/Kuching,0
 1735881,zh-CN,AS,亚洲,MY,马来西亚,13,砂拉越,,,,,Asia/Kuching,0
 1735902,zh-CN,AS,亚洲,MY,马来西亚,13,砂拉越,,,,,Asia/Kuching,0
 1736278,zh-CN,AS,亚洲,MY,马来西亚,09,玻璃市,,,加央,,Asia/Kuala_Lumpur,0
@@ -9816,6 +9820,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1818558,zh-CN,AS,亚洲,HK,香港,NYL,,,,天水围,,Asia/Hong_Kong,0
 1818628,zh-CN,AS,亚洲,HK,香港,NST,,,,,,Asia/Hong_Kong,0
 1818673,zh-CN,AS,亚洲,HK,香港,NTP,,,,大埔墟,,Asia/Hong_Kong,0
+1818684,zh-CN,AS,亚洲,HK,香港,NIS,,,,大澳,,Asia/Hong_Kong,0
 1818721,zh-CN,AS,亚洲,HK,香港,KYT,,,,大角咀,,Asia/Hong_Kong,0
 1818734,zh-CN,AS,亚洲,HK,香港,HEA,,,,大坑,,Asia/Hong_Kong,0
 1818775,zh-CN,AS,亚洲,HK,香港,NIS,,,,索罟湾,,Asia/Hong_Kong,0
@@ -9836,6 +9841,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1819049,zh-CN,AS,亚洲,HK,香港,NSK,,,,,,Asia/Hong_Kong,0
 1819050,zh-CN,AS,亚洲,HK,香港,NSK,,,,西贡,,Asia/Hong_Kong,0
 1819064,zh-CN,AS,亚洲,HK,香港,HEA,,,,鲗鱼涌,,Asia/Hong_Kong,0
+1819101,zh-CN,AS,亚洲,HK,香港,NYL,,,,屏山,,Asia/Hong_Kong,0
 1819184,zh-CN,AS,亚洲,HK,香港,HEA,,,,,,Asia/Hong_Kong,0
 1819230,zh-CN,AS,亚洲,HK,香港,NIS,,,,,,Asia/Hong_Kong,0
 1819248,zh-CN,AS,亚洲,HK,香港,KKT,,,,牛头角,,Asia/Hong_Kong,0
@@ -22889,7 +22895,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2763586,zh-CN,EU,欧洲,AT,奥地利,7,蒂罗尔州,,,,,Europe/Vienna,1
 2763588,zh-CN,EU,欧洲,AT,奥地利,6,,,,,,Europe/Vienna,1
 2763595,zh-CN,EU,欧洲,AT,奥地利,4,,,,蒂默尔卡姆,,Europe/Vienna,1
-2763614,zh-CN,EU,欧洲,AT,奥地利,4,,,,蒂夫格拉本,,Europe/Vienna,1
 2763658,zh-CN,EU,欧洲,AT,奥地利,8,福拉尔贝格州,,,,,Europe/Vienna,1
 2763672,zh-CN,EU,欧洲,AT,奥地利,6,,,,特尔,,Europe/Vienna,1
 2763700,zh-CN,EU,欧洲,AT,奥地利,3,,,,,,Europe/Vienna,1
@@ -24406,6 +24411,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2807872,zh-CN,EU,欧洲,DE,德国,BW,巴登-符腾堡,,,温嫩登,,Europe/Berlin,1
 2807877,zh-CN,EU,欧洲,DE,德国,SH,石勒苏益格-荷尔斯泰因,,,,,Europe/Berlin,1
 2808043,zh-CN,EU,欧洲,DE,德国,BY,巴伐利亚州,,,温赫灵,,Europe/Berlin,1
+2808148,zh-CN,EU,欧洲,DE,德国,BY,巴伐利亚州,,,温迪舍申巴赫,,Europe/Berlin,1
 2808204,zh-CN,EU,欧洲,DE,德国,RP,莱茵兰-普法尔茨,,,温德哈根,,Europe/Berlin,1
 2808239,zh-CN,EU,欧洲,DE,德国,RP,莱茵兰-普法尔茨,,,,,Europe/Berlin,1
 2808253,zh-CN,EU,欧洲,DE,德国,TH,,,,,,Europe/Berlin,1
@@ -25106,6 +25112,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2836544,zh-CN,EU,欧洲,DE,德国,NI,下萨克森,,,,,Europe/Berlin,1
 2836581,zh-CN,EU,欧洲,DE,德国,SN,萨克森自由州,,,申海德,,Europe/Berlin,1
 2836616,zh-CN,EU,欧洲,DE,德国,BY,巴伐利亚州,,,,,Europe/Berlin,1
+2836746,zh-CN,EU,欧洲,DE,德国,BB,勃兰登堡,,,,,Europe/Berlin,1
 2836761,zh-CN,EU,欧洲,DE,德国,BB,勃兰登堡,,,,,Europe/Berlin,1
 2836809,zh-CN,EU,欧洲,DE,德国,ST,萨克森-安哈尔特,,,舍纳贝克,,Europe/Berlin,1
 2836908,zh-CN,EU,欧洲,DE,德国,BB,勃兰登堡,,,,,Europe/Berlin,1
@@ -39376,7 +39383,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3109501,zh-CN,EU,欧洲,ES,西班牙,CL,卡斯蒂利亚-莱昂,VA,,,,Europe/Madrid,1
 3109527,zh-CN,EU,欧洲,ES,西班牙,CB,坎塔布里亚,S,,桑托尼亚,,Europe/Madrid,1
 3109535,zh-CN,EU,欧洲,ES,西班牙,RI,拉里奥哈,LO,,圣多明各-德拉卡尔萨达,,Europe/Madrid,1
-3109546,zh-CN,EU,欧洲,ES,西班牙,CT,,B,,,,Europe/Madrid,1
 3109550,zh-CN,EU,欧洲,ES,西班牙,CT,,GI,,,,Europe/Madrid,1
 3109582,zh-CN,EU,欧洲,ES,西班牙,CB,坎塔布里亚,S,,,,Europe/Madrid,1
 3109605,zh-CN,EU,欧洲,ES,西班牙,CL,卡斯蒂利亚-莱昂,P,,桑蒂瓦涅斯德拉佩尼亚,,Europe/Madrid,1
@@ -43258,7 +43264,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3183113,zh-CN,EU,欧洲,IT,意大利,55,翁布里亚,TR,,阿梅利亚,,Europe/Rome,1
 3183114,zh-CN,EU,欧洲,IT,意大利,42,利古里亞,SP,,,,Europe/Rome,1
 3183119,zh-CN,EU,欧洲,IT,意大利,52,托斯卡纳,AR,,,,Europe/Rome,1
-3183130,zh-CN,EU,欧洲,IT,意大利,72,坎帕尼亚,SA,,阿马尔菲,,Europe/Rome,1
 3183135,zh-CN,EU,欧洲,IT,意大利,25,,BG,,,,Europe/Rome,1
 3183140,zh-CN,EU,欧洲,IT,意大利,72,坎帕尼亚,CE,,,,Europe/Rome,1
 3183147,zh-CN,EU,欧洲,IT,意大利,52,托斯卡纳,LU,,,,Europe/Rome,1
@@ -47877,6 +47882,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3467410,zh-CN,SA,南美洲,BR,巴西,RS,,,,,,America/Sao_Paulo,0
 3467443,zh-CN,SA,南美洲,BR,巴西,PR,巴拉那州,,,,,America/Sao_Paulo,0
 3467445,zh-CN,SA,南美洲,BR,巴西,RJ,,,,,,America/Sao_Paulo,0
+3467446,zh-CN,SA,南美洲,BR,巴西,MG,米纳斯吉拉斯州,,,,,America/Sao_Paulo,0
 3467450,zh-CN,SA,南美洲,BR,巴西,BA,,,,,,America/Bahia,0
 3467452,zh-CN,SA,南美洲,BR,巴西,SC,圣卡塔琳娜州,,,,,America/Sao_Paulo,0
 3467467,zh-CN,SA,南美洲,BR,巴西,RS,,,,,,America/Sao_Paulo,0
@@ -48811,6 +48817,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3526611,zh-CN,NA,北美洲,MX,墨西哥,MEX,墨西哥州,,,,,America/Mexico_City,0
 3526617,zh-CN,NA,北美洲,MX,墨西哥,VER,,,,,,America/Mexico_City,0
 3526625,zh-CN,NA,北美洲,MX,墨西哥,VER,,,,,,America/Mexico_City,0
+3526646,zh-CN,NA,北美洲,MX,墨西哥,HID,,,,,,America/Mexico_City,0
 3526657,zh-CN,NA,北美洲,MX,墨西哥,PUE,普埃布拉州,,,,,America/Mexico_City,0
 3526662,zh-CN,NA,北美洲,MX,墨西哥,YUC,尤卡坦州,,,,,America/Merida,0
 3526670,zh-CN,NA,北美洲,MX,墨西哥,MEX,墨西哥州,,,,,America/Mexico_City,0
@@ -48974,6 +48981,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3533032,zh-CN,NA,北美洲,MX,墨西哥,MEX,墨西哥州,,,,,America/Mexico_City,0
 3533033,zh-CN,NA,北美洲,MX,墨西哥,MEX,墨西哥州,,,,,America/Mexico_City,0
 3533037,zh-CN,NA,北美洲,MX,墨西哥,MEX,墨西哥州,,,,,America/Mexico_City,0
+3533071,zh-CN,NA,北美洲,MX,墨西哥,HID,,,,,,America/Mexico_City,0
 3533107,zh-CN,NA,北美洲,MX,墨西哥,VER,,,,,,America/Mexico_City,0
 3533126,zh-CN,NA,北美洲,MX,墨西哥,PUE,普埃布拉州,,,,,America/Mexico_City,0
 3533153,zh-CN,NA,北美洲,MX,墨西哥,PUE,普埃布拉州,,,,,America/Mexico_City,0
@@ -49401,6 +49409,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3609586,zh-CN,NA,北美洲,HN,洪都拉斯,LE,,,,,,America/Tegucigalpa,0
 3609672,zh-CN,NA,北美洲,HN,洪都拉斯,FM,弗朗西斯科·莫拉桑省,,,,,America/Tegucigalpa,0
 3610613,zh-CN,NA,北美洲,HN,洪都拉斯,YO,,,,,,America/Tegucigalpa,0
+3610675,zh-CN,NA,北美洲,HN,洪都拉斯,CR,,,,,,America/Tegucigalpa,0
 3611150,zh-CN,NA,北美洲,HN,洪都拉斯,YO,,,,,,America/Tegucigalpa,0
 3612907,zh-CN,NA,北美洲,HN,洪都拉斯,EP,,,,,,America/Tegucigalpa,0
 3613140,zh-CN,NA,北美洲,HN,洪都拉斯,CR,,,,,,America/Tegucigalpa,0
@@ -50260,7 +50269,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3686431,zh-CN,SA,南美洲,CO,哥伦比亚,CHO,,,,,,America/Bogota,0
 3686441,zh-CN,SA,南美洲,CO,哥伦比亚,CUN,,,,,,America/Bogota,0
 3686513,zh-CN,SA,南美洲,CO,哥伦比亚,BOY,,,,,,America/Bogota,0
-3686540,zh-CN,SA,南美洲,CO,哥伦比亚,COR,,,,,,America/Bogota,0
 3686561,zh-CN,SA,南美洲,CO,哥伦比亚,CAL,卡尔达斯省,,,,,America/Bogota,0
 3686574,zh-CN,SA,南美洲,CO,哥伦比亚,NSA,北桑坦德省,,,,,America/Bogota,0
 3686636,zh-CN,SA,南美洲,CO,哥伦比亚,ANT,安蒂奥基亚省,,,,,America/Bogota,0
@@ -51609,6 +51617,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3937485,zh-CN,SA,南美洲,PE,秘鲁,JUN,胡宁大区,,,,,America/Lima,0
 3937513,zh-CN,SA,南美洲,PE,秘鲁,PUN,普诺大区,,,胡利亞卡,,America/Lima,0
 3937733,zh-CN,SA,南美洲,PE,秘鲁,JUN,胡宁大区,,,,,America/Lima,0
+3938324,zh-CN,SA,南美洲,PE,秘鲁,LIM,,,,,,America/Lima,0
 3938415,zh-CN,SA,南美洲,PE,秘鲁,MOQ,莫克瓜大区,,,伊洛,,America/Lima,0
 3938526,zh-CN,SA,南美洲,PE,秘鲁,ICA,伊卡大区,,,,,America/Lima,0
 3938527,zh-CN,SA,南美洲,PE,秘鲁,ICA,伊卡大区,,,伊卡,,America/Lima,0
@@ -51828,6 +51837,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3995402,zh-CN,NA,北美洲,MX,墨西哥,MIC,米却肯州,,,莫雷利亚,,America/Mexico_City,0
 3995465,zh-CN,NA,北美洲,MX,墨西哥,NLE,,,,蒙特雷,,America/Monterrey,0
 3995523,zh-CN,NA,北美洲,MX,墨西哥,COA,,,,蒙克洛瓦,,America/Monterrey,0
+3995698,zh-CN,NA,北美洲,MX,墨西哥,BCN,,,,,,America/Tijuana,0
 3995955,zh-CN,NA,北美洲,MX,墨西哥,MIC,米却肯州,,,,,America/Mexico_City,0
 3996049,zh-CN,NA,北美洲,MX,墨西哥,SLP,圣路易斯波托西州,,,,,America/Mexico_City,0
 3996063,zh-CN,NA,北美洲,MX,墨西哥,,,,,,,America/Mexico_City,0
@@ -53544,7 +53554,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4210382,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,524,America/New_York,0
 4210397,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,525,America/New_York,0
 4210417,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,芒特貝里,524,America/New_York,0
-4211727,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,503,America/New_York,0
 4211775,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,507,America/New_York,0
 4211839,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,525,America/New_York,0
 4211941,zh-CN,NA,北美洲,US,美国,GA,乔治亚,,,,524,America/New_York,0
@@ -56283,6 +56292,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4465853,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,545,America/New_York,0
 4465984,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,545,America/New_York,0
 4466033,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,560,America/New_York,0
+4466444,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,567,America/New_York,0
 4466446,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,518,America/New_York,0
 4466547,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,567,America/New_York,0
 4466720,zh-CN,NA,北美洲,US,美国,NC,北卡罗来纳州,,,,567,America/New_York,0
@@ -57398,6 +57408,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4562144,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,504,America/New_York,0
 4562148,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,504,America/New_York,0
 4562275,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,566,America/New_York,0
+4562309,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,554,America/New_York,0
 4562311,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,566,America/New_York,0
 4562366,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,504,America/New_York,0
 4562407,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,約克,566,America/New_York,0
@@ -60467,7 +60478,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4881672,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,,652,America/Chicago,0
 4881728,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,惠特兰,682,America/Chicago,0
 4881748,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,霍特奇尔,637,America/Chicago,0
-4881869,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,怀廷,624,America/Chicago,0
+4881869,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,怀廷,679,America/Chicago,0
 4881937,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,惠特莫尔,679,America/Chicago,0
 4881984,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,威廉斯,679,America/Chicago,0
 4882007,zh-CN,NA,北美洲,US,美国,IA,爱荷华州,,,威廉斯堡,637,America/Chicago,0
@@ -61829,7 +61840,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4972784,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
 4973108,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
 4973259,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
-4973288,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
 4973311,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
 4973333,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,537,America/New_York,0
 4973342,zh-CN,NA,北美洲,US,美国,ME,缅因州,,,,500,America/New_York,0
@@ -65725,7 +65735,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5189042,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,577,America/New_York,0
 5189091,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,504,America/New_York,0
 5189124,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,516,America/New_York,0
-5189292,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,574,America/New_York,0
 5189308,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,574,America/New_York,0
 5189377,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,法雷尔,536,America/New_York,0
 5189414,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,费耶特县,508,America/New_York,0
@@ -66027,6 +66036,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5203143,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,577,America/New_York,0
 5203164,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,566,America/New_York,0
 5203168,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,574,America/New_York,0
+5203174,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,536,America/New_York,0
 5203190,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,574,America/New_York,0
 5203197,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,504,America/New_York,0
 5203211,zh-CN,NA,北美洲,US,美国,PA,宾夕法尼亚州,,,,508,America/New_York,0
@@ -66548,7 +66558,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5237056,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
 5237255,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
 5237276,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
-5237385,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
 5237459,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
 5237476,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
 5237538,zh-CN,NA,北美洲,US,美国,VT,佛蒙特州,,,,523,America/New_York,0
@@ -68425,6 +68434,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5441199,zh-CN,NA,北美洲,US,美国,CO,,,,,773,America/Denver,0
 5441492,zh-CN,NA,北美洲,US,美国,CO,,,,,751,America/Denver,0
 5441792,zh-CN,NA,北美洲,US,美国,CO,,,,托沃克,790,America/Denver,0
+5441997,zh-CN,NA,北美洲,US,美国,CO,,,,特林契拉,,America/Denver,0
 5442007,zh-CN,NA,北美洲,US,美国,CO,,,,特立尼达,752,America/Denver,0
 5442727,zh-CN,NA,北美洲,US,美国,CO,,,,韦尔,751,America/Denver,0
 5442961,zh-CN,NA,北美洲,US,美国,CO,,,,维克托维尔,752,America/Denver,0
@@ -72478,7 +72488,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6295545,zh-CN,EU,欧洲,CH,瑞士,ZH,苏黎世州,,,,,Europe/Zurich,0
 6295587,zh-CN,AS,亚洲,ID,印度尼西亚,RI,,,,,,Asia/Jakarta,0
 6295855,zh-CN,NA,北美洲,CA,加拿大,QC,,,,,,America/Toronto,0
-6301917,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,SFK,,,,Europe/London,0
 6301918,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,SFK,,,,Europe/London,0
 6301921,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,SFK,,,,Europe/London,0
 6303007,zh-CN,SA,南美洲,PE,秘鲁,JUN,胡宁大区,,,,,America/Lima,0
@@ -74900,7 +74909,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7297956,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,HEF,,,,Europe/London,0
 7299693,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,WOR,,,,Europe/London,0
 7301819,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,LIN,林肯郡,,,Europe/London,0
-7301950,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,WNH,,,,Europe/London,0
 7302135,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,GRE,,,,Europe/London,0
 7302227,zh-CN,AF,非洲,ZA,南非,KZN,,,,,,Africa/Johannesburg,0
 7302240,zh-CN,EU,欧洲,CH,瑞士,LU,卢塞恩州,,,,,Europe/Zurich,0
@@ -75728,6 +75736,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8063602,zh-CN,EU,欧洲,GB,英国,SCT,苏格兰,DGY,,,,Europe/London,0
 8063653,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,STS,,,,Europe/London,0
 8063657,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,LEC,莱斯特郡,,,Europe/London,0
+8063692,zh-CN,EU,欧洲,CH,瑞士,AG,,,,,,Europe/Zurich,0
 8063849,zh-CN,EU,欧洲,CH,瑞士,AG,,,,,,Europe/Zurich,0
 8066718,zh-CN,AS,亚洲,YE,也门,BA,贝达省,,,,,Asia/Aden,0
 8068371,zh-CN,AS,亚洲,IL,以色列,D,南部区,,,,,Asia/Jerusalem,0
@@ -76991,6 +77000,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 9199785,zh-CN,EU,欧洲,GB,英国,ENG,英格兰,WOR,,,,Europe/London,0
 9255562,zh-CN,AS,亚洲,IN,印度,GA,果阿邦,,,,,Asia/Kolkata,0
 9255567,zh-CN,AS,亚洲,IN,印度,GA,果阿邦,,,,,Asia/Kolkata,0
+9256628,zh-CN,AS,亚洲,BD,孟加拉国,G,,60,,,,Asia/Dhaka,0
 9257701,zh-CN,AS,亚洲,BD,孟加拉国,C,,26,,,,Asia/Dhaka,0
 9259067,zh-CN,OC,大洋洲,SB,所罗门群岛,CT,,,,,,Pacific/Guadalcanal,0
 9259465,zh-CN,AS,亚洲,BD,孟加拉国,E,,49,,,,Asia/Dhaka,0
